@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<title>Unit 1</title>
+		<!--标准mui.css-->
+		<link rel="stylesheet" href="../../css/mui.min.css">
+		<!--App自定义的css-->
+		<link rel="stylesheet" type="text/css" href="../../css/app.css" />
+		<link rel="stylesheet" href="../../css/component/jnce.css">
+		<link rel="stylesheet" href="../../soundmanager2/css/inlineplayer.css" />
+		
+	</head>
+
+	<body>
+		<header class="mui-bar mui-bar-nav">
+			<a class="mui-action-back mui-icon mui-icon-left-nav mui-pull-left"></a>
+			<h1 class="mui-title" id="page-title">Unit 1</h1>
+		</header>
+		<div class="mui-content" style="background:#FAFAFA;">
+			<ul class="graphic" id="audio-url">
+ 			</ul>
+			<div class="mui-content-padded" id="content">
+			</div>
+		</div>
+		<script src="../../js/mui.min.js "></script>
+		<!-- Include the AudioJS Library -->
+      	<script src="../../soundmanager2/soundmanager2-jsmin.js" type="text/javascript" charset="utf-8"></script>
+ 	  	<script src="../../soundmanager2/script/inlineplayer.js"></script>
+ 	  	<script src="../../js/component/jnce.js"></script>
+	  	<script src="../../js/component/jnce1a01.data.js"></script>
+
+     <script>
+     	mui.init({
+				swipeBack: true //启用右滑关闭功能
+			});
+		
+		soundManager.setup({
+		// url: '/path/to/swf-files/',
+		// flashVersion: 9, // optional: shiny features (default = 8)
+		// optional: ignore Flash where possible, use 100% HTML5 mode
+		// preferFlash: false,
+		onready: function() {
+			// Ready to use; soundManager.createSound() etc. can now be called.
+			// create "mySound"...
+			
+		}
+	});
+	</script>
+</body>
+</html>

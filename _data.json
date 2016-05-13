@@ -1,0 +1,18 @@
+{
+  "index": {
+    "pageTitle": "理优英语盒",
+    "host":"http://leohtml.oss-cn-shanghai.aliyuncs.com/www/"
+  },
+  "nce1": {
+    "pageTitle": "新概念英语第一册"
+
+  },
+  "nce101": {
+    "pageTitle": "Unit 1",
+    "jsonData":"../../js/nce/nce101.data.js"
+  },
+  "nce102": {
+    "pageTitle": "Unit 2",
+    "jsonData":"../../js/nce/nce102.data.js"
+  }
+}

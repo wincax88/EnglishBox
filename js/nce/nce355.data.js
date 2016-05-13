@@ -1,0 +1,21 @@
+var json_data = {
+	"page_title":'新概念英语第三册 Lesson 55',
+	"audio":{
+		"url":'http://7xt529.com2.z0.glb.clouddn.com/NCE3_55.mp3',
+		"desc":'From the earth: greatings'
+	},
+	"title":
+	{
+		"english": 'From the earth: greatings',
+		"translate": '来自地球的问候',
+		"image":''
+	},
+	"dialogs": [
+		{
+			"speaker": "",
+			"sentence": "Radio astronomy has greatly increased our understanding of the universe. Radio telescopes have one big advantage over conventional telescopes in that they can operate in all weather conditions and can pick up signals coming from very distant stars. These signals are produced by colliding stars or nuclear reactions in outer space. The most powerful signals that have been received have been emitted by what seem to be truly colossal stars which scientists have named 'quasars'.A better understanding of these phenomena may completely alter our conception of the nature of the universe. The radio telescope at Jodrell Bank in England was for many years the largest in the world. A new telescope, over twice the size, was recently built at Sugar Grove in West Virginia. Astronomers no longer regard as fanciful the idea that they may one day pick up signals which have been sent by intelligent beings on other worlds. This possibility gives rise to interesting speculations. Highly advanced civilizations may have existed on other planets long before intelligent forms of life evolved on the earth. Conversely, intelligent being which are just beginning to develop on remote worlds may be ready to pick up our signals in thousands of years' time, or when life on earth has become extinct. Such speculations no longer belong to the realm of science fiction, for astronomers are now exploring the chances of communicating with living creatures (if they exist) on distant planets. This undertaking which has been named Project Ozma was begun in 1960, but it may take a great many years before results are obtained.Aware of the fact that it would be impossible to wait thousands or millions of years to receive an answer from a distant planet, scientists engaged in Project Ozma are concentrating their attention on stars which are relatively close. One of the most likely stars is Tau Ceti which is eleven light years away. If signals from the earth were received by intelligent creatures on a planet circling thisstar, we would have to wait twenty-two years for an answer. The Green Bank telescope in West Virginia has been specially designed to distinguish between random signals and signals which might be in code. Even if contact were eventually established, astronomers would not be able to rely on language to communicate with other beings. They would use mathematics as this is theonly truly universal language. Numbers have the same value anywhere. For this reason, intelligent creatures in any part of the universe would be able to understand a simple arithmetical sequence. They would be able to reply to our signals using similar methods. The next step would be to try to develop means for sending television pictures. A single picture would tell us more than thousands of words. In an age when anything seems to be possible, it would be narrow-minded in the extreme to ridicule these attempts to find out if there is life in other parts of the universe. ",
+			"translate": "天文学方面最新发展使得我们能够在银河系和其他星系发现行星。这是一个重要的成就，因为相对来说，行星很小，而且也不发光。寻找行星证明相当困难，但是要在行星上发现生命会变得无比艰难。第一个需要解答的问题是一颗行星是否有能够维持生命的条件。举例来说，在我们的太阳系里，对于生命来说，金星的温度太高，而火星的温度则太低。只有地球提供理想的条件，而即使在这里，植物和动物的进化也用了40亿年的时间。一颗行星是否能够维持生命取决于它的恒星——即它的‘太阳”——的大小和亮度。设想一下，一颗恒星比我们的太阳还要大，还要亮，还要热20倍，那么一颗行星为了维持生命就要离开的它的恒星非常远。反之，如果恒星很小，维持生命的行星就要在离恒星很近的轨道上运行，而且要有极好的条件才能使生命得以发展，但是，我们如何才能找到这样一颗行星呢？现在，没有一台现存的望远镜可以发现生命的存在。而开发这样一台望远镜将会是21世纪天文学的一个重要的研究课题。使用放置在地球上的望远镜是无法观察到其他行星的生命的。地球周围温暖的大气层和望远镜散出的热量使得我们根本不可能找到比行星更小的物体。即使是一台放置在围绕地球的轨道上的望远镜——如非常成功的哈勃望远镜——也因为太阳系中的尘埃微粒而无法胜任。望远镜要放置在木星那样遥远的行星上才有可能在外层空间搜寻生命。因为我们越是接近太阳系的边缘，尘埃就越稀薄。一旦我们找到这样一颗行星，我们就要想办法将它的恒星射过来的光线遮暗，这样我们就能彻底‘看见”这颗行星，并分析它的大气层。首先我们要寻找植物，而不是那种‘小绿人”。行星上最容易生存下来的是细菌。正是细菌生产出我们在地球上呼吸的氧气。在地球上发展的大部分进程中，细菌是地球上唯一的生命形式。作为地球上的居民，我们总存有这样的希望：小绿人来拜访我们，而我们可以和他们交流。但是，这种希望总是只在科幻小说中存在。如果我们能够在另一颗行星上找到诸如细菌的那种低等生命，那么这个发现将彻底改变我们对我们自己的看法。正如美国国家航空和宇宙航空局的丹尼尔.戈尔丁指出的‘在其他地方发现生命会改变一切。任何人类的努力和想法都会发生变化。” "
+		},
+
+	]
+};

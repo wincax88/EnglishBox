@@ -1,0 +1,36 @@
+<!-- 1. link css //-->
+<link rel="stylesheet" href="../../css/mui.min.css">
+
+<!-- 2. header //-->
+<header class="mui-bar mui-bar-nav">
+    <a class="mui-action-back mui-icon mui-icon-left-nav mui-pull-left"></a>
+    <h1 class="mui-title">第三册</h1>
+</header>
+
+<!-- 3. content //-->
+<div class="mui-content" id="nce3-table">
+
+</div>
+
+<!-- 4. script //-->
+<script src="../../js/mui.min.js"></script>
+<script src="../../soundmanager2/soundmanager2-jsmin.js"></script>
+<script src="../../js/nce/nce3.js"></script>
+
+<script>
+    mui.init({
+        swipeBack: true //启用右滑关闭功能
+    });
+
+    function unit_click(index) {
+        var url = 'nce1' + index + '.html';
+        mui.openWindow({
+            url: url,
+            id: url,
+            extras: {
+                index: index,
+                version: '0.5.8'
+            }
+        });
+    }
+</script>
